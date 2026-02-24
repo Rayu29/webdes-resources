@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rayu29.github.io/webdes-resources/sitemap.xml
